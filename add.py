@@ -14,7 +14,7 @@ class Tools(object):
         if one:
             print(f'{self.HELLO},{one}')
 
-    # 开发的注释
+    # 开发的注释1
     def say_hi(self, one):
         if one:
             print('我在这里插入一行')
