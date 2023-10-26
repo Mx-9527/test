@@ -4,6 +4,7 @@ class Tools(object):
     一个工具
     """
 
+    # 我增加一行
     def __init__(self):
         super().__init__()
         self.say_hi()
